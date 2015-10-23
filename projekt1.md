@@ -1,2 +1,2 @@
 ## W budowie... 
- materialy(materialy.md)
+[materialy](materialy.md)
