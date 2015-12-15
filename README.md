@@ -2,9 +2,9 @@
 technologie utrwalania danych dla języka Java(lab)
 
 tematyka - kwiaciarnia
-# Projekt1
+# Projekt 1 - JDBC
 [odsylacz](https://github.com/aneta-7/Projekt1)
 
-# Projekt
+# Projekt 2 - Hibernate+Spring
 [odsylacz](https://github.com/aneta-7/Project2)
 
